@@ -18,23 +18,23 @@
             <img src="http://www.homerswebpage.com/images/jebusDance.gif" width="50">
     </header>
     <main>
-    <h3>Formulario de Contacto</h3>
+    <h1>Formulario de Contacto</h1>
 <form>
     <div>
         <Label> Nombre y apellido</Label>
-        <input Type="text">
+        <input Type="text" required minlength="2" maxlength="60" autocomplete="name">
     </div>
     <div>
         <Label> Teléfono</Label>
-        <input Type="tel">
+        <input Type="tel" required autocomplete="tel">
     </div>
     <div>
         <Label>Mail</Label>
-        <input Type="email">
+        <input Type="email" required autocomplete="email">
     </div>
     <div>
         <Label>Fecha de nacimiento</Label>
-        <input Type="Date">
+        <input Type="Date" autocomplete="bday">
     </div>
     <div>
         <p>¿Cómo te enterastre de nosotros?</p>
