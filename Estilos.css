@@ -8,7 +8,7 @@ body{
     line-height: 150%;
 }
 body{
-    color: royalblue;
+    color: #1c2b2d;
 }
 nav{
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -17,5 +17,26 @@ nav{
     font-size: 14pt;
 }
 nav{
-    color: burlywood;
+    color: #1f6f8b;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+    font-size: 16;
+}
+h1{
+    color: #14274e
+}
+Form{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+form{
+    font-size: 15px;
+}
+form{
+    font-weight: 500;
+}
+form{
+    color: 9ba4b4
 }
