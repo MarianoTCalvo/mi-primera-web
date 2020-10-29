@@ -29,7 +29,7 @@ h1{
     color: #14274e
 }
 Form{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 form{
     font-size: 15px;
@@ -38,5 +38,5 @@ form{
     font-weight: 500;
 }
 form{
-    color: 9ba4b4
+    color: #6a097d;
 }
