@@ -37,3 +37,22 @@ form{
 form{
     color: #6a097d;
 }
+input:focus {
+    border: 2px solid yellow
+}
+input:hover {
+    border: solid green
+}
+button:hover{
+    border-color: blue;
+    color: blue
+}
+Button:focus{
+    background: red;
+}
+a:hover{
+    background: lightskyblue;
+}
+a:focus{
+    background: greenyellow;
+}
