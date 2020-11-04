@@ -1,13 +1,7 @@
 Body {
     font-family: 'Syne Tactile', cursive;
-}
-body{
     font-size: 13pt;
-}
-body{
     line-height: 150%;
-}
-body{
     color: #1c2b2d;
 }
 nav,h1{
@@ -15,26 +9,16 @@ nav,h1{
 }
 nav{
     font-size: 14pt;
-}
-nav{
     color: #1f6f8b;
 }
 h1{
     font-size: 16;
-}
-h1{
-    color: #14274e
+    color: #14274e;
 }
 Form{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-}
-form{
     font-size: 15px;
-}
-form{
     font-weight: 500;
-}
-form{
     color: #6a097d;
 }
 input:focus {
@@ -55,4 +39,31 @@ a:hover{
 }
 a:focus{
     background: greenyellow;
+}
+.Imagen-Galeria{
+    border: 10px solid blue;
+    margin: 10px;
+    padding: 20PX
+}
+.Video-Galeria{
+   margin: 10px;
+   border: 20px solid red;
+   padding: 10PX;
+}
+img{
+    display:block;
+    margin:auto;
+}
+video{
+    display:block;
+    margin:auto;
+}
+NAV{
+    text-align: center;
+}
+.Encabezado{
+    text-align: center;
+}
+.Etiqueta-pelicula{
+    text-align: center;
 }
