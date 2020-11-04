@@ -22,7 +22,7 @@ Form{
     color: #6a097d;
 }
 input:focus {
-    border: 2px solid yellow
+    border: 2px solid yellow 
 }
 input:hover {
     border: solid green
